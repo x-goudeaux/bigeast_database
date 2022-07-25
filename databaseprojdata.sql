@@ -1,9 +1,3 @@
---ER Diagram Ideas drafted by Xavier and Mario, Final Design Drawn by Mario
---Database Schema Created by Mario
---Database Data created by Mario and Xavier
-    --Mario: Data for Depaul, Connecticut, Marquette, Creighton, and Providence
-    --Xavier: Data for Georgetown, Villanova, Butler, Seton Hall, St. John's, and Xavier
---Test Queries created by Xavier
 
 Insert into Teams Values ('DePaul', 'Blue Demons', 5, 2, 14, 13, 0);
 Insert into Teams Values ('Connecticut', 'Huskies', 15, 11, 8, 6, 4);
